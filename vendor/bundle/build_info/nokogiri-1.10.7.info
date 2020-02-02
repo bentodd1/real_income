@@ -1,0 +1,1 @@
+--use-system-libraries=true --with-xslt-dir=/usr/local/opt/libxslt --with-xml2-include=/usr/local/opt/libxml2/ --with-iconv-dir=/usr/local/opt/libiconv/

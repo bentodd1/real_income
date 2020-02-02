@@ -1,0 +1,15 @@
+current directory: /Users/btodd/project/real_personal_income/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+/Users/btodd/.rbenv/versions/2.5.3/bin/ruby -I /Users/btodd/.rbenv/versions/2.5.3/lib/ruby/site_ruby/2.5.0 -r ./siteconf20200201-42302-1ock2bj.rb extconf.rb
+creating Makefile
+
+current directory: /Users/btodd/project/real_personal_income/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/btodd/project/real_personal_income/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/btodd/project/real_personal_income/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20200201-42302-t351je/bootsnap

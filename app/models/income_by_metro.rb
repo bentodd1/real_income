@@ -1,0 +1,2 @@
+class IncomeByMetro < ApplicationRecord
+end
